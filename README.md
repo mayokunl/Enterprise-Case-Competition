@@ -73,17 +73,18 @@ These assets give Enterprise the foundation to deliver transparent pricing and v
 
 ## **AI Integration**
 
-AI is deeply integrated into ECAT to enhance transparency and decision-making:
+We used AI specifically as a **development tool**, applying prompt engineering to build and refine the ECAT application. AI supported:
 
-- **AI-generated cost breakdowns** showing tariff + MSRP impact  
-- **Predictive modeling** for usage and fleet demand  
-- **Personalized savings recommendations**  
-- **Dynamic tier suggestions** based on predicted retention  
-- **Automated renewal meeting reports**  
+- Generating UI concepts and screen layouts  
+- Speeding up front-end component creation  
+- Drafting product copy, tier descriptions, and transparency messaging  
+- Assisting with prototyping flows for the account review experience  
+- Automating repetitive content creation during app development  
 
-This turns ECAT into an **AI-powered B2B transparency engine**.
+AI **did not** generate analytics, predictive models, or usage forecasts.  
+All business insights, financial analysis, and strategic reasoning were created manually by the team.
 
----
+AI’s role was focused on **accelerating product development**, improving clarity, and helping produce a high-quality ECAT prototype quickly.
 
 ## **ECAT Program Structure**
 
@@ -93,13 +94,14 @@ This turns ECAT into an **AI-powered B2B transparency engine**.
 - Usage-based savings  
 - Upgrade recommendations  
 - Transparent pricing dashboards  
-- AI-driven usage & spend forecasts  
 
 ### **Strategic Objectives**
 - Maintain profitability amid rising acquisition costs  
 - Preserve enterprise-level account loyalty  
 - Reinforce transparency as a core differentiator  
-- Offer measurable ROI to corporate clients  
+- Offer measurable ROI to corporate clients
+- Clear pricing explanations and documentation generated during app development with AI assistance  
+ 
 
 ---
 
@@ -119,7 +121,7 @@ To succeed, Enterprise must justify **value, not just cost**.
 The renewal meeting framework is built on **transparency, data, and collaboration**:
 
 ### **1. Lead with transparency**  
-Use ECAT’s AI-generated cost breakdowns to explain why rates must rise.
+Use ECAT’s cost breakdowns to explain why rates must rise.
 
 ### **2. Analyze the account’s usage**  
 Show annual behavior, trends, and areas of overspending.
